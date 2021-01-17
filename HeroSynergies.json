@@ -1,0 +1,2482 @@
+[
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Orisa",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Reinhardt",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Roadhog",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Sigma",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Winston",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Zarya",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Genji",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Sombra",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "D.Va",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Reinhardt",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Roadhog",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Sigma",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Winston",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Zarya",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Ashe",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Bastion",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Orisa",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Roadhog",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Sigma",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Winston",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Zarya",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Bastion",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Lucio",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reinhardt",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Sigma",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Winston",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Zarya",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Roadhog",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Winston",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Zarya",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sigma",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Wrecking Ball",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Zarya",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Echo",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Genji",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Mei",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Sombra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Lucio",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Winston",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Zarya",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Echo",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Genji",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Mei",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Pharah",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Reaper",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Sombra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Ana",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Wrecking Ball",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Ashe",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Genji",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Zarya",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Bastion",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Mercy",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ashe",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Doomfist",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Pharah",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Lucio",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Mercy",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Bastion",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Echo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Mei",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Sombra",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Doomfist",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Genji",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Sombra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Mercy",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Echo",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Hanzo",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Sombra",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Ana",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Genji",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Junkrat",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Mercy",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Hanzo",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "McCree",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Pharah",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Junkrat",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Mei",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "McCree",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Pharah",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Reaper",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Lucio",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Mei",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Reaper",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Mercy",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Pharah",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Soldier: 76",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Sombra",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Lucio",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Reaper",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Sombra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Ana",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Soldier: 76",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Symmetra",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Tracer",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Sombra",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Torbj�rn",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Symmetra",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Tracer",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Torbj�rn",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Widowmaker",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Tracer",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Ana",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Widowmaker",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Baptiste",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Ana",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Baptiste",
+    "HERO_2": "Brigitte",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Baptiste",
+    "HERO_2": "Lucio",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Baptiste",
+    "HERO_2": "Mercy",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Baptiste",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Baptiste",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Brigitte",
+    "HERO_2": "Lucio",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Brigitte",
+    "HERO_2": "Mercy",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Brigitte",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Brigitte",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Lucio",
+    "HERO_2": "Mercy",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Lucio",
+    "HERO_2": "Moira",
+    "SYNERGY": 3
+  },
+  {
+    "HERO_1": "Lucio",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Mercy",
+    "HERO_2": "Moira",
+    "SYNERGY": 2
+  },
+  {
+    "HERO_1": "Mercy",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 1
+  },
+  {
+    "HERO_1": "Moira",
+    "HERO_2": "Zenyatta",
+    "SYNERGY": 3
+  }
+]
