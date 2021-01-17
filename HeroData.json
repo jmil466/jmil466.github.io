@@ -4,6 +4,10 @@
     "Role": "Tank"
   },
   {
+    "Hero": "Orisa",
+    "Role": "Tank"
+  },
+  {
     "Hero": "Reinhardt",
     "Role": "Tank"
   },
